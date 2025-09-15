@@ -1,0 +1,22 @@
+{
+  "name": "fun-gemini-cli",
+  "version": "1.0.0",
+  "description": "Test environment for gemini-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ductai05/fun-gemini-cli.git"
+  },
+  "author": "cieldt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ductai05/fun-gemini-cli/issues"
+  },
+  "homepage": "https://github.com/ductai05/fun-gemini-cli#readme",
+  "dependencies": {
+    "@google/gemini-cli": "^0.4.1"
+  }
+}
