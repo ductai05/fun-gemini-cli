@@ -1,0 +1,23 @@
+{
+  "name": "fun-gemini-cli",
+  "version": "1.0.0",
+  "description": "This repository demonstrates how to set up and use the Gemini CLI (agents code) in your Node.js projects using `nix-shell`. By leveraging `shell.nix`, you can easily create a consistent development environment with Node.js and the Gemini CLI pre-configured.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ductai05/fun-gemini-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ductai05/fun-gemini-cli/issues"
+  },
+  "homepage": "https://github.com/ductai05/fun-gemini-cli#readme",
+  "dependencies": {
+    "@google/gemini-cli": "^0.9.0"
+  }
+}
